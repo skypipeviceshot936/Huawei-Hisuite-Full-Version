@@ -247,3 +247,6 @@ This repository serves as the official landing page for Huawei HiSuite. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Huawei HiSuite today!**
+
+---
+**Last updated:** 2026-09-11 12:26:59 UTC
